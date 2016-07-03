@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "interface-name": false,
+    "max-line-length": [false],
+    "member-ordering": [true,
+      "public-before-private",
+      "static-before-instance",
+      "variables-before-functions"
+    ]
+  }
+}
